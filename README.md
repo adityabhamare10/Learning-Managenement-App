@@ -10,9 +10,10 @@ These instructions will help you get a copy of the project up and running on you
 
 ## Prerequisites
 Android Studio installed on your computer
+
 An Android device or emulator to run the app
 ## Installation
-1,Clone the repository to your local machine using the following command:
+1.Clone the repository to your local machine using the following command:
 
 git clone https://github.com/adityabhamare10/MVVM-Project.git
 
